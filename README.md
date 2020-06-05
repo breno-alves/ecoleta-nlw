@@ -1,1 +1,0 @@
-# ecoleta-rocketseat
